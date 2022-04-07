@@ -1,0 +1,11 @@
+{
+  "name": "Heroku",
+  "description": "PwP",
+  "env": {
+    "PORT": {
+      "description": "Port number",
+      "value": "80"
+    }
+  },
+  "image": "heroku/python"
+}
